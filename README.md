@@ -25,4 +25,6 @@ If you are aiming to explore everything this darknet marketplace has to offer, e
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/textures/viewer.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/textures/clear.webp" alt="image" style="max-width: 100%;"><a>
 
-Update: link is live and reachable
+
+
+Update:  13 June Repaired broken links in installation guide
