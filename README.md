@@ -39,4 +39,6 @@ If you are aiming to explore everything this darknet marketplace has to offer, e
 
 
 
-Update: Fixed broken url, now reachable and live
+
+
+Update:  07/04/2025 04-33-47 url is now responsive and operational
