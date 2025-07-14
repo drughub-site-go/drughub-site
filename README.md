@@ -43,4 +43,6 @@ If you are aiming to explore everything this darknet marketplace has to offer, e
 
 
 
-Update:  Monday 07 July 2025 Thumbnail URLs
+
+
+Update: Route updates
