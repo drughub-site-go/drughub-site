@@ -51,4 +51,6 @@ If you are aiming to explore everything this darknet marketplace has to offer, e
 
 
 
-Update: link is alive
+
+
+Update:  Monday 04 August 2025
