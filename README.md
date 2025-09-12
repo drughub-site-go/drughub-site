@@ -59,4 +59,6 @@ If you are aiming to explore everything this darknet marketplace has to offer, e
 
 
 
-Update:  Saturday 23 August 2025 Fixed link
+
+
+Update:  09/12/2025 The broken link has been fixed, it's now operational.
