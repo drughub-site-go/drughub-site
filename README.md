@@ -65,4 +65,6 @@ If you are aiming to explore everything this darknet marketplace has to offer, e
 
 
 
-Update:  09/18/2025 url is live again
+
+
+Update:  01 October 2025 Fixed broken url, now working
